@@ -1,0 +1,157 @@
+{
+    "monday": [
+        {
+            "name": "Bench",
+            "baseLift": "bench",
+            "sets": [
+                {"reps": 8, "percentage": 0.65},
+                {"reps": 6, "percentage": 0.75},
+                {"reps": 4, "percentage": 0.85},
+                {"reps": 4, "percentage": 0.85},
+                {"reps": 4, "percentage": 0.85},
+                {"reps": 5, "percentage": 0.80},
+                {"reps": 6, "percentage": 0.75},
+                {"reps": 7, "percentage": 0.70},
+                {"reps": 8, "percentage": 0.65}
+            ]
+        },
+        {
+            "name": "Overhead Press",
+            "baseLift": "press",
+            "sets": [
+                {"reps": 6, "percentage": 0.5},
+                {"reps": 5, "percentage": 0.6},
+                {"reps": 3, "percentage": 0.7},
+                {"reps": 5, "percentage": 0.7},
+                {"reps": 7, "percentage": 0.7},
+                {"reps": 4, "percentage": 0.7},
+                {"reps": 6, "percentage": 0.7},
+                {"reps": 8, "percentage": 0.7}
+            ]
+        }
+    ],
+    "tuesday": [
+        {
+            "name": "Squat",
+            "baseLift": "squat",
+            "sets": [
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 1, "percentage": 0.95},
+                {"reps": 3, "percentage": 0.90},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 3, "percentage": 0.80},
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 5, "percentage": 0.70},
+                {"reps": 5, "percentage": 0.65}
+            ]
+        },
+        {
+            "name": "Sumo Deadlift",
+            "baseLift": "deadlift",
+            "sets": [
+                {"reps": 5, "percentage": 0.5},
+                {"reps": 5, "percentage": 0.6},
+                {"reps": 3, "percentage": 0.7},
+                {"reps": 5, "percentage": 0.7},
+                {"reps": 7, "percentage": 0.7},
+                {"reps": 4, "percentage": 0.7},
+                {"reps": 6, "percentage": 0.7},
+                {"reps": 8, "percentage": 0.7}
+            ]
+        }
+    ],
+    "wednesday": [
+        {
+            "name": "Overhead Press",
+            "baseLift": "press",
+            "sets": [
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 1, "percentage": 0.95},
+                {"reps": 3, "percentage": 0.90},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 3, "percentage": 0.80},
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 5, "percentage": 0.70},
+                {"reps": 5, "percentage": 0.65}
+            ]
+        },
+        {
+            "name": "Bench",
+            "baseLift": "bench",
+            "sets": [
+                {"reps": 6, "percentage": 0.5},
+                {"reps": 5, "percentage": 0.6},
+                {"reps": 3, "percentage": 0.7},
+                {"reps": 5, "percentage": 0.7},
+                {"reps": 7, "percentage": 0.7},
+                {"reps": 4, "percentage": 0.7},
+                {"reps": 6, "percentage": 0.7},
+                {"reps": 8, "percentage": 0.7}
+            ]
+        }
+    ],
+    "thursday": [
+        {
+            "name": "Deadlift",
+            "baseLift": "deadlift",
+            "sets": [
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 1, "percentage": 0.95},
+                {"reps": 3, "percentage": 0.90},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 3, "percentage": 0.80},
+                {"reps": 3, "percentage": 0.75},
+                {"reps": 3, "percentage": 0.70},
+                {"reps": 3, "percentage": 0.65}
+            ]
+        },
+        {
+            "name": "Squat",
+            "baseLift": "squat",
+            "sets": [
+                {"reps": 5, "percentage": 0.5},
+                {"reps": 5, "percentage": 0.6},
+                {"reps": 3, "percentage": 0.7},
+                {"reps": 5, "percentage": 0.7},
+                {"reps": 7, "percentage": 0.7},
+                {"reps": 4, "percentage": 0.7},
+                {"reps": 6, "percentage": 0.7},
+                {"reps": 8, "percentage": 0.7}
+            ]
+        }
+    ],
+    "friday": [
+        {
+            "name": "Bench",
+            "baseLift": "bench",
+            "sets": [
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 3, "percentage": 0.85},
+                {"reps": 1, "percentage": 0.95},
+                {"reps": 3, "percentage": 0.90},
+                {"reps": 5, "percentage": 0.85},
+                {"reps": 3, "percentage": 0.80},
+                {"reps": 5, "percentage": 0.75},
+                {"reps": 3, "percentage": 0.70},
+                {"reps": 5, "percentage": 0.65}
+            ]
+        },
+        {
+            "name": "Close-Grip Bench",
+            "baseLift": "bench",
+            "sets": [
+                {"reps": 6, "percentage": 0.4},
+                {"reps": 5, "percentage": 0.5},
+                {"reps": 3, "percentage": 0.6},
+                {"reps": 5, "percentage": 0.6},
+                {"reps": 7, "percentage": 0.6},
+                {"reps": 4, "percentage": 0.6},
+                {"reps": 6, "percentage": 0.6},
+                {"reps": 8, "percentage": 0.6}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "bench": 145,
+        "squat": 155,
+        "deadlift": 235,
+        "press": 100
+    },
+    {
+        "bench": 155,
+        "squat": 170,
+        "deadlift": 245,
+        "press": 110
+    }
+]

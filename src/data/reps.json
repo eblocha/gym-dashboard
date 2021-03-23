@@ -1,0 +1,14 @@
+[
+    {
+        "bench": 4,
+        "squat": 6,
+        "deadlift": 5,
+        "press": 3
+    },
+    {
+        "bench": null,
+        "squat": null,
+        "deadlift": null,
+        "press": null
+    }
+]

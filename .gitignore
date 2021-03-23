@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# restricted licenses - cannot redistribute
+*.rhn
+/src/picovoice/workouts_context.js
+/models
+/src/picovoice/*wasm_64.js
+
+# don't track data
+/data
+
+# python packages and bytecode
+/env
+__pycache__
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.eslintcache
+.vscode
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
